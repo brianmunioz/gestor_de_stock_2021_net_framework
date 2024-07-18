@@ -1,0 +1,74 @@
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.vbprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FCelulares.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FAgregar.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FEliminar.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.FModificar.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+C:\Users\Usuario\Desktop\ProyectoFinal\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Usuario\Desktop\final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Usuario\Desktop\final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Usuario\Desktop\final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Usuario\Desktop\final\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.FCelulares.resources
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.FAgregar.resources
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.FEliminar.resources
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+C:\Users\Usuario\Desktop\final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Esteban\Downloads\final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Esteban\Downloads\final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Esteban\Downloads\final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Esteban\Downloads\final\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbprojAssemblyReference.cache
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.FCelulares.resources
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.FAgregar.resources
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.FEliminar.resources
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.FModificar.resources
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.cache
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+C:\Users\Esteban\Downloads\final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbprojAssemblyReference.cache
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.FCelulares.resources
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.FAgregar.resources
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.FEliminar.resources
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.cache
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+C:\Users\Usuario\Documents\1er CUAT. 2021 TEC. EN COMPUTACION\Matematicas\final\ProyectoFinal\obj\Debug\ProyectoFinal.FAcercaDe.resources
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\bin\Debug\ProyectoFinal.exe.config
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\bin\Debug\ProyectoFinal.exe
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\bin\Debug\ProyectoFinal.pdb
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\bin\Debug\ProyectoFinal.xml
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.FAcercaDe.resources
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.FCelulares.resources
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.FAgregar.resources
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.FEliminar.resources
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.Resources.resources
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.exe
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.xml
+C:\Users\Usuario\Desktop\Enviar a mi compañero\final\ProyectoFinal\obj\Debug\ProyectoFinal.pdb
